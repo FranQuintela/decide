@@ -290,3 +290,9 @@ A tener en cuenta:
   concurrentes, cuando pongamos más de 100, lo normal es que empiecen a fallar muchas peticiones.
 * Si hacemos las pruebas en local, donde tenemos activado el modo debug de Django, lo normal es que
   las peticiones tarden algo más y consigamos menos RPS (Peticiones por segundo).
+
+BUILD STATUS
+
+[![Build Status](https://travis-ci.org/FranQuintela/decide.svg?branch=master)](https://travis-ci.org/FranQuintela/decide)
+[![Codacy Badge](https://app.codacy.com/project/badge/Grade/e0deb56881714690b8176f83f1224d9c)](https://www.codacy.com/gh/FranQuintela/decide/dashboard?utm_source=github.com&amp;utm_medium=referral&amp;utm_content=FranQuintela/decide&amp;utm_campaign=Badge_Grade)
+[![Codacy Badge](https://app.codacy.com/project/badge/Coverage/e0deb56881714690b8176f83f1224d9c)](https://www.codacy.com/gh/FranQuintela/decide/dashboard?utm_source=github.com&utm_medium=referral&utm_content=FranQuintela/decide&utm_campaign=Badge_Coverage)
